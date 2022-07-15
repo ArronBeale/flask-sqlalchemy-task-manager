@@ -14,3 +14,8 @@
 - Updating tasks
 - deleting tasks
 - Deploying to Heroku
+
+## Learning Outcomes
+- CRUD, create, read, update and delete records from our database
+- Flask, use Flask with SQLAlchemy's ORM to build our app with HTML based templates
+- Materialize, style our templates using Materialize to ensure a nice UX
